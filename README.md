@@ -1,8 +1,9 @@
 ## SDSS Computing Studies Python Assignment
-### More Binding
+### Sound Effects
 
 Objectives:
 * Adding sound effects to a TKinter GUI
+* Add sound effects to collisisions on a Canvas
 
 We can also bind functions to widgets that do more than just receive input and display output.  Sound effects can also be added to the callback functions that are created and bound to events.  These can be easily incorporated using a module and playing mp3 sound files.
 
@@ -40,3 +41,9 @@ Easy : Computation questions
 Medium: Solving one step equations
 Hard: Factoring questions
 Keep score for the player and play appropriate sound effects when buttons are pressed
+
+##### Task 3
+Create a canvas object and use key bindings to be able to move a sprite around the canvas.
+* Make a sound effect for every time you move the sprite
+* Make a sound effect every time it tries to move off the screen and prevent it from moving off the screen
+
