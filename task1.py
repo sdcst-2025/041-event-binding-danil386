@@ -7,7 +7,6 @@ window.geometry("450x475")
 window.attributes("-topmost", True)
 window.title("Soundboard")
 window.resizable(False,False)
-window.configure(bg="#fff")
 
 row1=Frame()
 row2=Frame()
